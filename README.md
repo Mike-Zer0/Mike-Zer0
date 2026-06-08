@@ -41,7 +41,6 @@ One-click installation and tracking for performance kernels like CachyOS and Lin
 🎬 Graphics Driver & Firmware Control Center
 Skip the broken PPAs and terminal chaos. The engine automatically detects your hardware and delivers a flawless, automated graphics stack.
 
-+------------------------------------------------------------+
 🟢 NVIDIA Suite: Instantly toggle between Stable Production and Beta channels. Autoconfigures /etc/modprobe.d/ for open-source modules and low-latency sync.
 
 🔴 AMD & Mesa Suite: Grab day-one gaming optimizations by linking to bleeding-edge Mesa-Git, and swap between RADV and AMDVLK Vulkan backends on the fly.
