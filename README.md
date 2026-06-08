@@ -42,24 +42,6 @@ One-click installation and tracking for performance kernels like CachyOS and Lin
 Skip the broken PPAs and terminal chaos. The engine automatically detects your hardware and delivers a flawless, automated graphics stack.
 
 +------------------------------------------------------------+
-| [⚡] PROTON PUNCH   |   [DRIVER & FIRMWARE]                |
-+------------------------------------------------------------+
-|  Detected Hardware: NVIDIA RTX 4070 / AMD Ryzen 7 7800X3D  |
-|                                                            |
-|  [🟢] NVIDIA Proprietary Driver                             |
-|       Current: v580.126                                    |
-|       [ Switch to Open-Kernel (DKMS) ] [ Toggle Beta Stream ]|
-|                                                            |
-|  [🟢] AMD Radeon / Mesa Stack                              |
-|       Current: Mesa 26.0.5 (Vulkan 1.3)                    |
-|       [ Install Bleeding-Edge Mesa-Git ]                   |
-|                                                            |
-|  [🟡] Video Acceleration (VA-API / NVDEC)                 |
-|       Status: Incomplete hardware decoding codecs detected.|
-|       [ Action: Auto-Fix Hardware Codecs ]                 |
-+------------------------------------------------------------+
-|  [ Action: Check System Firmware (fwupd) ]                  |
-+------------------------------------------------------------+
 🟢 NVIDIA Suite: Instantly toggle between Stable Production and Beta channels. Autoconfigures /etc/modprobe.d/ for open-source modules and low-latency sync.
 
 🔴 AMD & Mesa Suite: Grab day-one gaming optimizations by linking to bleeding-edge Mesa-Git, and swap between RADV and AMDVLK Vulkan backends on the fly.
